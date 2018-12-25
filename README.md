@@ -24,3 +24,13 @@ println(PhrasePass().nextPassword(Rules(
     nDigits = 3
 )))
 ```
+
+Example passwords
+
+```commandline
+:Shucking?Obsession4Survive2ManlyPod
+1Pectin9Showbiz%Encircle|FootsieFiller
+Plural)Untrimmed;Cogwheel1RockinessEarthy1
+@Broadly7Macaroni7SpousalRely|Wobbly
+5ColonizeFilterQuery_Errand{Humorous2
+```
